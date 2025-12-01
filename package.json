@@ -31,11 +31,11 @@
     }
   },
   "dependencies": {
-    "@standard-schema/spec": "^1.0.0",
-    "fetch-router-extra": "https://github.com/lemol/fetch-router-extra.git"
+    "@standard-schema/spec": "^1.0.0"
   },
   "devDependencies": {
     "@remix-run/fetch-router": "^0.12.0",
+    "fetch-router-extra": "https://github.com/lemol/fetch-router-extra.git",
     "@types/node": "^24.6.0",
     "typescript": "^5.9.3",
     "zod": "^4.1.13"
